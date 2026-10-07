@@ -5,7 +5,7 @@ Estudante de Sistemas de Informação focado em **Análise de Dados** e **Engenh
 - 🎓 Graduando em **Sistemas de Informação** no CESAR School
 - 🎯 Foco em extração, análise e modelagem de dados com **Python**, **SQL** e **Power BI**
 - ☁️ Fundamentos em arquitetura em nuvem e infraestrutura de redes (**AWS** & **Cisco**)
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/arthur-meirinho-914a8037a/) | [Email](arthur.meirinho@gmail.com)
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/arthur-meirinho-914a8037a/) | Email: (arthur.meirinho@gmail.com)
 
 ---
 
