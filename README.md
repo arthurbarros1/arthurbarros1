@@ -30,7 +30,7 @@ Estudante de Sistemas de Informação focado em **Análise de Dados** e **Engenh
 <table>
   <tr>
     <td width="110" align="center">
-      <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269886/image.png" width="90" alt="AWS Academy Cloud Foundations" />
+      <img src="./assets/aws-academy-graduate-cloud-foundations-training-bad.png" width="90" alt="AWS Academy Cloud Foundations" />
     </td>
     <td>
       <strong>AWS Academy Graduate – Cloud Foundations</strong><br />
