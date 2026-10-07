@@ -53,10 +53,3 @@ Estudante de Sistemas de Informação focado em **Análise de Dados** e **Engenh
 </table>
 
 ---
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurbarros1&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbarros1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
