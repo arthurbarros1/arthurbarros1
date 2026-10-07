@@ -40,7 +40,7 @@ Estudante de Sistemas de Informação focado em **Análise de Dados** e **Engenh
   </tr>
   <tr>
     <td width="110" align="center">
-      <img src="https://img.icons8.com/color/96/cisco.png" width="75" alt="Cisco Networking Academy" />
+      <img src="./assets/badge-cisco.png" />
     </td>
     <td>
       <strong>Fundamentos da Rede</strong><br />
