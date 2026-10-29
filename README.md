@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
 Estudante de Sistemas de Informação no **CESAR School** focado em **Análise de Dados** e **Engenharia de Dados**. Desenvolvo soluções com foco em manipulação, modelagem, automação e visualização estratégica de dados, integrando conceitos fundamentais de computação em nuvem e redes.
 
@@ -24,18 +24,33 @@ Estudante de Sistemas de Informação no **CESAR School** focado em **Análise d
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias & Ferramentas
 
+**Linguagens & Consultas:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+**Dados & Análise:**
+<p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+**Bancos de Dados & Infraestrutura:**
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+**Ferramentas, Versionamento & Gestão:**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
@@ -43,9 +58,7 @@ Estudante de Sistemas de Informação no **CESAR School** focado em **Análise d
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
-
-### 🔗 Connect With Me
+### 🔗 Redes & Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-meirinho-914a8037a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
