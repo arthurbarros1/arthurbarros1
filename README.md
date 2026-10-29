@@ -67,12 +67,3 @@ Estudante de Sistemas de Informação no CESAR School focado em Análise de Dado
     </td>
   </tr>
 </table>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=arthurbarros1&bg_color=00000000&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/arthurbarros1">arthurbarros1</a></i></p>
