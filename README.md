@@ -8,14 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%40%20CESAR%20School%20%7C%20An%C3%A1lise%20%26%20Engenharia%20de%20Dados;Modelagem%20de%20dados%2C%20pipelines%20ETL%20e%20visualiza%C3%A7%C3%A3o%20estrat%C3%A9gica%20com%20Python%2C%20SQL%20e%20Power%20BI" alt="Typing headlines" />
 </p>
 
+---
+
 ### 🚀 About Me
 
-Estudante de Sistemas de Informação no CESAR School focado em Análise de Dados e Engenharia de Dados. Desenvolvo soluções com foco em manipulação, modelagem, automação e visualização estratégica de dados, integrando conceitos fundamentais de computação em nuvem e redes.
+Estudante de Sistemas de Informação no **CESAR School** focado em **Análise de Dados** e **Engenharia de Dados**. Desenvolvo soluções com foco em manipulação, modelagem, automação e visualização estratégica de dados, integrando conceitos fundamentais de computação em nuvem e redes.
 
-🔭 &nbsp;I'm currently working on **Pipelines de dados, ETL e Data Warehouse analítico para telemetria esportiva (PostgreSQL, Python, Docker e Power BI)**  
-🌱 &nbsp;I'm currently learning **Modelagem Dimensional (Star Schema), Engenharia de Dados com Python/SQL e Dashboards no Power BI**  
-👯 &nbsp;I'm looking to collaborate on **Projetos de Engenharia de Dados, Business Intelligence (BI) e Análise de Dados**  
-💬 &nbsp;Ask me about **Python, SQL, PostgreSQL, Power BI, Docker.**
+- 🔭 **Atualmente trabalhando em:** Pipelines de dados, ETL e Data Warehouse analítico para telemetria esportiva (*PostgreSQL, Python, Docker e Power BI*)
+
+- 🌱 **Aprimorando conhecimentos em:** Modelagem Dimensional (*Star Schema*), Engenharia de Dados com Python/SQL e Dashboards no Power BI
+
+- 👯 **Buscando colaborar em:** Projetos de Engenharia de Dados, Business Intelligence (BI) e Análise de Dados
+
+- 💬 **Principais temas e tecnologias:** Python, SQL, PostgreSQL, Power BI, Docker, Fundamentos AWS e Redes Cisco
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -36,12 +43,16 @@ Estudante de Sistemas de Informação no CESAR School focado em Análise de Dado
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-meirinho-914a8037a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arthur.meirinho@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
 
 ### 📜 Certificações & Treinamentos
 
@@ -58,7 +69,7 @@ Estudante de Sistemas de Informação no CESAR School focado em Análise de Dado
   </tr>
   <tr>
     <td width="110" align="center">
-      <img src="./assets/badge-cisco.png" width="90" alt="Fundamentos da Rede Cisco" />
+      <img src="./assets/badge-cisco.png" />
     </td>
     <td>
       <strong>Fundamentos da Rede</strong><br />
