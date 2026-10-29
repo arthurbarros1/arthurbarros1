@@ -47,8 +47,6 @@ Estudante de Sistemas de Informação no **CESAR School** focado em **Análise d
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
----
-
 **Ferramentas, Versionamento & Gestão:**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -57,6 +55,8 @@ Estudante de Sistemas de Informação no **CESAR School** focado em **Análise d
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+---
 
 ### 🔗 Redes & Contato
 
