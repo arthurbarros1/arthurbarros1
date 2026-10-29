@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
 Estudante de Sistemas de Informação no **CESAR School** focado em **Análise de Dados** e **Engenharia de Dados**. Desenvolvo soluções com foco em manipulação, modelagem, automação e visualização estratégica de dados, integrando conceitos fundamentais de computação em nuvem e redes.
 
